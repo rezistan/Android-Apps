@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Contact List</string>
+    <string name="action_settings">Ajouter un contact</string>
+    <string name="name">Nom(*)</string>
+    <string name="mail">Adresse mail</string>
+    <string name="phone">Numéro de téléphone</string>
+    <string name="address">Adresse</string>
+    <string name="postCode">Code Postal</string>
+    <string name="okay">Enregistrer</string>
+    <string name="dialog_title">Les informations que vous avez entrées</string>
+    <string name="descImage">imageRandom</string>
+    <string name="thanks">Contact enregistré</string>
+    <string name="fillAll">Vous devez remplir les champs avec des (*)</string>
+    <string name="dateFormat">dd/MM/yyyy</string>
+    <string name="errorPhone">Numéro de téléphone invalide</string>
+    <string name="errorMail">email invalide</string>
+    <string name="errorPostCode">Code Postal invalide</string>
+    <string name="dialog_titleAvatar">Selectionner votre avatar</string>
+    <string name="roundAvatar">Icône Ronde</string>
+    <string name="squareAvatar">Icône Carrée</string>
+    <string name="confirmation">Supprimer ce contact ?</string>
+    <string name="num">Numéro</string>
+</resources>

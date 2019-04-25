@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VeloToulouse</string>
+    <string name="starting">Rezistan</string>
+    <string name="title_activity_bike_maps">Map</string>
+    <string name="listBikes">Afficher la liste des stations</string>
+    <string name="mapBikes">Afficher la carte</string>
+    <string name="title_location_permission">Accès Localisation</string>
+    <string name="text_location_permission">Veuillez autoriser l\'accès à votre localisation</string>
+    <string name="ok">OK</string>
+    <string name="need_connection">Veuillez vous connecter à internet pour afficher les marqueurs sur la carte</string>
+    <string name="no_internet">Pas d\'accès Internet</string>
+    <string name="internetPrompt">Veuillez vous connecter à internet pour continuer</string>
+    <string name="splashHint">Rezistan</string>
+    <string name="yes">oui</string>
+    <string name="no">non</string>
+</resources>

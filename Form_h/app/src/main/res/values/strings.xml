@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Form Rz</string>
+    <string name="sex">Sexe(*) :</string>
+    <string name="male">Homme</string>
+    <string name="female">Femme</string>
+    <string name="name">Prénom(*)</string>
+    <string name="surname">Nom(*)</string>
+    <string name="birthday">Date de naissance(*)</string>
+    <string name="mail">Adresse mail(*)</string>
+    <string name="phone">Numéro de téléphone</string>
+    <string name="address">Adresse</string>
+    <string name="postCode">Code Postal</string>
+    <string name="okay">Valider</string>
+    <string name="dialog_title">Les informations que vous avez entrées</string>
+    <string name="descImage">imageRandom</string>
+    <string name="issaMan">Vous êtes un homme</string>
+    <string name="issaWoman">Vous êtes une femme</string>
+    <string name="thanks">Merci d\'avoir rempli ce formulaire !</string>
+    <string name="fillAll">Vous devez remplir les champs avec des (*)</string>
+    <string name="dateFormat">dd/MM/yyyy</string>
+    <string name="errorPhone">Numéro de téléphone invalide</string>
+    <string name="errorMail">email invalide</string>
+    <string name="errorPostCode">Code Postal invalide</string>
+    <string name="dialog_titleAvatar">Selectionner votre avatar</string>
+    <string name="roundAvatar">Icône Ronde</string>
+    <string name="squareAvatar">Icône Carrée</string>
+</resources>
